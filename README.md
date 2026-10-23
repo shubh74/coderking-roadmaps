@@ -1,0 +1,64 @@
+# 👑 CoderKing Studio: Official Architecture Roadmaps & Cheat Sheets
+
+Welcome to the official, public developer resources repository for **[@coderking__1](https://www.instagram.com/coderking__1/)**!
+
+All guides below are developer-grade, high-resolution PDFs designed for software engineers, backend architects, and CS students. Download them completely free:
+
+---
+
+## 📚 Master Technical Roadmaps & Cheat Sheets
+
+| Roadmap / Architecture Guide | Focus Area | Instagram Keyword | 1-Click Direct Download |
+| :--- | :--- | :---: | :---: |
+| **DeepSeek R1 Architecture Blueprint** | Pure RL without SFT, GRPO, Multi-Head Latent Attention | `R1` / `DEEPSEEK` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/DeepSeek_R1_Architecture_Roadmap.pdf) |
+| **cURL Systems Architecture Guide** | 10B Devices on 1 Solo Dev, libcurl, Linux epoll, HTTP/3 | `CURL` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/cURL_Systems_Architecture_Guide.pdf) |
+| **Redis 100k QPS System Design CheatSheet** | In-Memory RAM, Linux `epoll`, Single-Thread Event Loop | `REDIS` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Redis_System_Design_CheatSheet.pdf) |
+| **SQLite In-Process Database Guide** | 400 Crore Devices, 8MB `sqlite3.c`, WAL Mode, B-Tree | `SQLITE` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/SQLite_InProcess_Database_Guide.pdf) |
+| **NSA Ghidra Reverse Engineering Guide** | Binary Decompilation, Assembly patching, x86/ARM SRE | `GHIDRA` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/NSA_Ghidra_Reverse_Engineering_Guide.pdf) |
+| **Linux eBPF Kernel Superpower Roadmap** | In-Kernel Bytecode, JIT Compiler, Zero Reboot Observability | `EBPF` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Linux_eBPF_Kernel_Roadmap.pdf) |
+| **Zerodha 1.5Cr Trades ₹0 AWS Architecture** | Bare-Metal Data Centers, Vanilla PostgreSQL, Go Microservices | `ZERODHA` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Zerodha_Zero_AWS_Architecture_Guide.pdf) |
+| **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
+
+---
+
+## 🎓 90-Day Developer Masterclass Course Roadmaps
+
+Follow daily on Instagram **[@coderking__1](https://www.instagram.com/coderking__1/)** for the step-by-step masterclasses:
+
+### 1. 📊 Track 1: 90 Days of Data Science & AI
+- **Syllabus**: Linear algebra math foundations ➔ High-dimensional Tensors & Embeddings ➔ PyTorch on CUDA ➔ LLM Fine-Tuning (LoRA/QLoRA) ➔ Autonomous Agentic Workflows.
+- **Trigger**: Comment `DATA1` or `DATA2` on Instagram.
+- **Direct PDF Download**: [⬇️ Download Data Science & AI 90-Day Roadmap PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/DataScience_AI_90Days_Roadmap.pdf)
+
+### 2. 🕵️ Track 2: 90 Days of Ethical Hacking & Cybersecurity
+- **Syllabus**: TCP/IP 3-way handshakes ➔ Network packet sniffing & Wireshark ➔ Nmap port scanning ➔ Linux SUID privilege escalation ➔ Binary exploitation & Ghidra reverse engineering.
+- **Trigger**: Comment `HACK1` on Instagram.
+- **Direct PDF Download**: [⬇️ Download Ethical Hacking 90-Day Roadmap PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/EthicalHacking_Cybersecurity_90Days_Roadmap.pdf)
+
+### 3. ☁️ Track 3: 90 Days of Cloud Computing & DevOps
+- **Syllabus**: Linux kernel namespaces & cgroups ➔ Multi-stage Docker containers ➔ Kubernetes orchestration (Pods, Ingress, Helm) ➔ Terraform Infrastructure as Code ➔ GitOps CI/CD.
+- **Trigger**: Comment `CLOUD1` on Instagram.
+- **Direct PDF Download**: [⬇️ Download Cloud & DevOps 90-Day Roadmap PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/CloudDevOps_Docker_Kubernetes_90Days_Roadmap.pdf)
+
+### 4. 🐧 Track 4: 90 Days of Linux & Kernel Internals
+- **Syllabus**: CPU Ring 0 vs Ring 3 privilege rings ➔ System calls (`fork()`, `execve()`, `getdents64`) ➔ Virtual File System (VFS) & Inodes ➔ Memory management & page tables ➔ in-kernel eBPF bytecode.
+- **Trigger**: Comment `LINUX1` on Instagram.
+- **Direct PDF Download**: [⬇️ Download Linux Internals 90-Day Roadmap PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Linux_Kernel_Internals_90Days_Roadmap.pdf)
+
+### 5. 🏢 Track 5: 90 Days of High-Scale System Design
+- **Syllabus**: HTTP/3 QUIC & Anycast CDN ➔ HAProxy reverse proxies & Load balancing ➔ Redis caching & Bloom filters ➔ Kafka distributed event streaming ➔ Database sharding & CAP theorem.
+- **Trigger**: Comment `DESIGN1` on Instagram.
+- **Direct PDF Download**: [⬇️ Download System Design Master Roadmap PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf)
+
+---
+
+## ⚡ Quick Connect & Resources
+
+- 📸 **Instagram**: [@coderking__1](https://www.instagram.com/coderking__1/) *(Daily reels, secret tools, and architecture sprints)*
+- 🌐 **Roadmaps Repository**: [github.com/shubh74/coderking-roadmaps](https://github.com/shubh74/coderking-roadmaps)
+- 💡 **Star this repository** to support open-source developer education! ⭐
+
+---
+
+> [!NOTE]
+> Every roadmap in this repository is 100% free and open-source. Generated autonomously by **CoderKing Studio Engine**.

@@ -21,6 +21,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Matrix Multiplication, Tensors & GPU Tensor Cores** | DATA SCIENCE & AI MATH | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/DataScience_Day03_Matrix_GPU_Math_Guide.pdf) |
 | **Kubernetes: Pods, ReplicaSets & Cluster Networking** | CLOUD & DEVOPS MASTERCLASS | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Kubernetes_Pods_ReplicaSets_Networking_Guide.pdf) |
 | **Redis Architecture: Why Single-Thread Beats Multi-Thread** | ALGORITHMS & HIGH SCALE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Redis_Single_Thread_Event_Loop_DeepDive.pdf) |
+| **Cursor AI: Composer & Shadow Workspace Guide** | AI & DEV TOOLS | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Cursor_AI_Composer_Shadow_Workspace_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

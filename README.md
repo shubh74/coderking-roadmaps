@@ -18,6 +18,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Linux eBPF Kernel Superpower Roadmap** | In-Kernel Bytecode, JIT Compiler, Zero Reboot Observability | `EBPF` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Linux_eBPF_Kernel_Roadmap.pdf) |
 | **Zerodha 1.5Cr Trades ₹0 AWS Architecture** | Bare-Metal Data Centers, Vanilla PostgreSQL, Go Microservices | `ZERODHA` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Zerodha_Zero_AWS_Architecture_Guide.pdf) |
 | **Nmap: Network Recon & SYN Stealth Scan Architecture** | ETHICAL HACKING & RECON | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Nmap_Stealth_Port_Scanning_CheatSheet.pdf) |
+| **Matrix Multiplication, Tensors & GPU Tensor Cores** | DATA SCIENCE & AI MATH | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/DataScience_Day03_Matrix_GPU_Math_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

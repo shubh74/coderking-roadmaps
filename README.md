@@ -25,6 +25,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Linux Memory: Virtual Memory, MMU & Page Tables** | LINUX INTERNALS MASTERCLASS | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Linux_Virtual_Memory_MMU_Page_Tables_Guide.pdf) |
 | **Database Sharding, Partition Keys & Consistent Hashing** | SYSTEM DESIGN MASTERCLASS | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Database_Sharding_Consistent_Hashing_Guide.pdf) |
 | **Stripe: How 10,000 TPS APIs Prevent Double Charges** | STRIPE API | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/StripeHow10000TpsApisPrevent_Guide.pdf) |
+| **Discord: 11 Million Concurrent Users on Elixir & Rust** | DISCORD SCALE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Discord11MillionConcurrentUsersOn_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

@@ -23,6 +23,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Redis Architecture: Why Single-Thread Beats Multi-Thread** | ALGORITHMS & HIGH SCALE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Redis_Single_Thread_Event_Loop_DeepDive.pdf) |
 | **Cursor AI: Composer & Shadow Workspace Guide** | AI & DEV TOOLS | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Cursor_AI_Composer_Shadow_Workspace_Guide.pdf) |
 | **Linux Memory: Virtual Memory, MMU & Page Tables** | LINUX INTERNALS MASTERCLASS | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Linux_Virtual_Memory_MMU_Page_Tables_Guide.pdf) |
+| **Database Sharding, Partition Keys & Consistent Hashing** | SYSTEM DESIGN MASTERCLASS | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Database_Sharding_Consistent_Hashing_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

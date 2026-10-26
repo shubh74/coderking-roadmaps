@@ -31,6 +31,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Kafka Architecture: Zero-Copy & Linux sendfile() Syscall** | DISTRIBUTED STREAMING & KERNEL | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Kafka_Zero_Copy_Sendfile_Architecture_Guide.pdf) |
 | **Day 3/90: Kubernetes Ingress, Services & ClusterIP vs NodePort** | DAY 3 / 90 | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Day390KubernetesIngressServicesClusterip_Guide.pdf) |
 | **Day 3/90: Linux Process Fork, Execve, Copy-on-Write & Zombies** | DAY 3 / 90 | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Day390LinuxProcessForkExecve_Guide.pdf) |
+| **Day 3/90: Distributed Caching, Redis Cluster & Cache Stampede** | DAY 3 / 90 | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Day390DistributedCachingRedisCluster_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

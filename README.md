@@ -43,6 +43,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Cloud & DevOps: AWS Spot Instances 90% Bill Reduction** | AWS 90% OFF | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/CloudDevopsAwsSpotInstances90_Guide.pdf) |
 | **DeepSeek AI: How DeepSeek Built a GPT-4 Level LLM for $6 Million with MoE** | DEEPSEEK MOE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/DeepseekAiHowDeepseekBuiltA_Guide.pdf) |
 | **Linux Architecture: Cgroups v2 & The OOM Killer Secret** | OOM KILLER | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/LinuxArchitectureCgroupsV2TheOom_Guide.pdf) |
+| **System Design: Consistent Hashing & Distributed Ring** | HASH RING | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/SystemDesignConsistentHashingDistributedRing_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

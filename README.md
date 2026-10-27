@@ -40,6 +40,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Linux Architecture: How 1 Server Handles 10 Million Open Sockets** | 10M SOCKETS | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/LinuxArchitectureHow1ServerHandles_Guide.pdf) |
 | **Uber System Design: Tracking 50,000 Cabs/Sec with Kafka Partitions** | UBER LIVE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/UberSystemDesignTracking50000Cabssec_Guide.pdf) |
 | **Ethical Hacking: SQL Injection & Blind Database Dump** | SQL HACK | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/EthicalHackingSqlInjectionBlindDatabase_Guide.pdf) |
+| **Cloud & DevOps: AWS Spot Instances 90% Bill Reduction** | AWS 90% OFF | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/CloudDevopsAwsSpotInstances90_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

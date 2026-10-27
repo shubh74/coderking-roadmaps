@@ -41,6 +41,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Uber System Design: Tracking 50,000 Cabs/Sec with Kafka Partitions** | UBER LIVE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/UberSystemDesignTracking50000Cabssec_Guide.pdf) |
 | **Ethical Hacking: SQL Injection & Blind Database Dump** | SQL HACK | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/EthicalHackingSqlInjectionBlindDatabase_Guide.pdf) |
 | **Cloud & DevOps: AWS Spot Instances 90% Bill Reduction** | AWS 90% OFF | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/CloudDevopsAwsSpotInstances90_Guide.pdf) |
+| **DeepSeek AI: How DeepSeek Built a GPT-4 Level LLM for $6 Million with MoE** | DEEPSEEK MOE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/DeepseekAiHowDeepseekBuiltA_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

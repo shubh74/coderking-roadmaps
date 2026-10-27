@@ -37,6 +37,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Day 5/90: Neural Network Layers, Loss Functions & Cross-Entropy** | DAY 5 / 90 | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Day590NeuralNetworkLayersLoss_Guide.pdf) |
 | **Day 4/90: Man-in-the-Middle (MITM), ARP Spoofing & SSL Stripping** | DAY 4 / 90 | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Day490ManinthemiddleMitmArpSpoofing_Guide.pdf) |
 | **Swiggy: Zero-Downtime Kubernetes Deployments During IPL Traffic** | SWIGGY | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/SwiggyZerodowntimeKubernetesDeploymentsDuringIpl_Guide.pdf) |
+| **Linux Architecture: How 1 Server Handles 10 Million Open Sockets** | 10M SOCKETS | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/LinuxArchitectureHow1ServerHandles_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

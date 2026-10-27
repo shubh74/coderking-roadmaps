@@ -34,6 +34,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Day 3/90: Distributed Caching, Redis Cluster & Cache Stampede** | DAY 3 / 90 | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Day390DistributedCachingRedisCluster_Guide.pdf) |
 | **PostgreSQL MVCC vs MySQL Row Locking Concurrency** | SYSTEMS ARCHITECTURE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/PostgresqlMvccVsMysqlRowLocking_Guide.pdf) |
 | **Nginx Event-Driven Non-Blocking Architecture** | SYSTEMS ARCHITECTURE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/NginxEventdrivenNonblockingArchitecture_Guide.pdf) |
+| **Day 5/90: Neural Network Layers, Loss Functions & Cross-Entropy** | DAY 5 / 90 | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/Day590NeuralNetworkLayersLoss_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

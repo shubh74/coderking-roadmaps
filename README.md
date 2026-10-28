@@ -45,6 +45,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Linux Architecture: Cgroups v2 & The OOM Killer Secret** | OOM KILLER | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/LinuxArchitectureCgroupsV2TheOom_Guide.pdf) |
 | **System Design: Consistent Hashing & Distributed Ring** | HASH RING | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/SystemDesignConsistentHashingDistributedRing_Guide.pdf) |
 | **Netflix Architecture: Destroying Servers with Chaos Monkey** | CHAOS MONKEY | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/NetflixArchitectureDestroyingServersWithChaos_Guide.pdf) |
+| **WhatsApp Architecture: How 32 Engineers Scaled to 450 Million Users** | WHATSAPP 32 | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/WhatsappArchitectureHow32EngineersScaled_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

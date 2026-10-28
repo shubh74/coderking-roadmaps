@@ -49,6 +49,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Uber Architecture: Why Uber Dumped Postgres for Schemaless MySQL** | UBER MYSQL | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/UberArchitectureWhyUberDumpedPostgres_Guide.pdf) |
 | **Instagram Architecture: 6 Million Lines of Python 3 Serving 2 Billion Users** | INSTAGRAM PY | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/InstagramArchitecture6MillionLinesOf_Guide.pdf) |
 | **Data Science & AI: Attention Mechanism & How Transformers Read Text** | TRANSFORMER | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/DataScienceAiAttentionMechanismHow_Guide.pdf) |
+| **Ethical Hacking: Stored XSS & Stealing Admin Session Cookies** | XSS ATTACK | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/EthicalHackingStoredXssStealingAdmin_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

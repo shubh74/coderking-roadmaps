@@ -51,6 +51,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **Data Science & AI: Attention Mechanism & How Transformers Read Text** | TRANSFORMER | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/DataScienceAiAttentionMechanismHow_Guide.pdf) |
 | **Ethical Hacking: Stored XSS & Stealing Admin Session Cookies** | XSS ATTACK | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/EthicalHackingStoredXssStealingAdmin_Guide.pdf) |
 | **Cloud & DevOps: Zero-Downtime Blue-Green Deployments with HAProxy** | BLUE GREEN | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/CloudDevopsZerodowntimeBluegreenDeploymentsWith_Guide.pdf) |
+| **Linux Internals: Virtual File System (VFS), Inodes & Dentry Caches** | LINUX VFS | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/LinuxInternalsVirtualFileSystemVfs_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---

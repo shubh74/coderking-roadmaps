@@ -55,6 +55,7 @@ All guides below are developer-grade, high-resolution PDFs designed for software
 | **vLLM PagedAttention: GPU Memory Magic** | SYSTEMS ARCHITECTURE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/VllmPagedattentionGpuMemoryMagic_Guide.pdf) |
 | **How Linux Cgroups v2 Kills Hungry Containers** | SYSTEMS ARCHITECTURE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/HowLinuxCgroupsV2KillsHungry_Guide.pdf) |
 | **Telegram MTProto: 1B Users on 1 Protocol** | SYSTEMS ARCHITECTURE | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/TelegramMtproto1bUsersOn1_Guide.pdf) |
+| **Ollama: Run DeepSeek & Llama 3 100% Free & Offline** | OLLAMA | Official Guide | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/OllamaRunDeepseekLlama3100_Guide.pdf) |
 | **Full-Stack & Distributed Systems Roadmap** | High-Scale Tier-1 to Tier-4 System Design (1 to 10M users) | `DESIGN1` | [⬇️ Download PDF](https://github.com/shubh74/coderking-roadmaps/raw/main/FullStack_System_Design_Roadmap.pdf) |
 
 ---
